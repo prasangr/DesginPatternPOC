@@ -1,4 +1,4 @@
-package BuilderInProduction;
+package Builder.BuilderInProduction;
 
 
 public class Student {

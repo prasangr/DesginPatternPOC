@@ -1,4 +1,4 @@
-package Builder;
+package Builder.BuilderExample;
 
 public class Helper {
 
